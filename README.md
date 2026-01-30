@@ -1,2 +1,3 @@
 # Twine-Minigame-1
-Twine Minigame 1 for CISG 110.
+## Devlog
+Remove this line and write your Devlog here.
