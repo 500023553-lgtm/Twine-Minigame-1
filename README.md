@@ -1,3 +1,4 @@
 # Twine-Minigame-1
 ## Devlog
-Remove this line and write your Devlog here.
+These tutorials were easy to go through and my person experience and comfort level with using computers and the internet is some what comfortable i wasn't struggling to much but still had trouble a little bit. How this accfects my experience going through these tutorials is that i will need try much more than i did with the first time i tried game design
+i had a easy time with the assignments this week and reflecting how to someone who does not have an easy time using computer is that they should take their time with it and not rush it and if they are still having trouble they should always ask their proffesor or their classmate they can contact. and i think this may relate to someone who is trying to play video game because trying to figure how to install or run it needs mental work on how to do those type of things to i believe it is a relatable thing 
